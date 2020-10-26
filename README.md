@@ -2,6 +2,7 @@
 Agorithm Practice with [Dachris-1](https://github.com/Dachris-1) ;-)
 
 (TODO: add hints to the problems)
+(TODO: add solution code)
 
 ### SQL
 #### Easy Problems
