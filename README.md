@@ -1,4 +1,6 @@
 # leetcode Solution
+Agorithm Practice with [Dachris-1](https://github.com/Dachris-1) ;-)
+
 (TODO: add links to the problems)
 
 ### SQL
