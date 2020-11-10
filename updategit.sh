@@ -11,5 +11,6 @@ git add -A
 git commit  -m "new update for the probsets"
 
 GITHUB_AUTH=$(echo -n "${GITHUB_ACTOR}:${GITHUB_TOKEN}" | base64)
+GITHUB_REF=./refs/heads/main
 
-git -c http.extraheader="AUTHORIZATION: basic ${GITHUB_AUTH}" push -u origin "HEAD:${GITHUB_REF}"
+git -c http.extraheader="AUTHORIZATION: basic ${GITHUB_AUTH}" push -u origin "HEAD:${GITHUB_REF##*/}"
