@@ -22,6 +22,8 @@ Agorithm Practice with [Dachris-1](https://github.com/Dachris-1) ;-)
 
 [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 
+[20.Longest Common Prefix](https://leetcode.com/problems/valid-parentheses)
+
 [175.Combine Two Tables](https://leetcode.com/problems/combine-two-tables)
 
 [176.Second Highest Salary](https://leetcode.com/problems/second-highest-salary)
