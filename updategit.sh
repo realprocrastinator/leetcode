@@ -6,6 +6,8 @@ ssh-add ~/.ssh/git_hub_id_rsa
 git config --global user.name 'realprocrastinator'
 git config --global user.email '1106364305@qq.com'
 
+git pull --verbose
+
 git add -A
 
 git commit  -m "new update for the probsets"
