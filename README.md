@@ -4,14 +4,49 @@ Agorithm Practice with [Dachris-1](https://github.com/Dachris-1) ;-)
 (TODO: add hints to the problems)
 (TODO: add solution code)
 
-### SQL
-#### Easy Problems
-[175.Combine Two Tables](https://leetcode.com/problems/combine-two-tables)
-
-[176.Second Highest Salar](https://leetcode.com/problems/second-highest-salary)
-
 ### Algorithms
 #### Easy Probelms
+
+##### Tree
+
+[965.univalued-binary-tree](https://leetcode.com/problems/univalued-binary-tree)
+
+[653.Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) 
+
+[669.Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)  
+
+[101.Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+
+[1022.Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) 
+
+[404.Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)
+
+[572.Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)
+
+##### List
+
+[206.Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+
+[203.Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) 
+
+[83.Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) 
+
+[234.Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) 
+
+[876.Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
+
+[141.Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+
+[160.Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) 
+
+[21.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
+[237.Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)
+
+[1290.Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) 
+
+##### Misc
+
 [1.Two Sum](https://leetcode.com/problems/two-sum)
 
 [7.Reverse Integer](https://leetcode.com/problems/reverse-integer)
@@ -23,8 +58,6 @@ Agorithm Practice with [Dachris-1](https://github.com/Dachris-1) ;-)
 [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 
 [20.valid-parentheses](https://leetcode.com/problems/valid-parentheses/description/)
-
-[21.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
 [175.Combine Two Tables](https://leetcode.com/problems/combine-two-tables)
 
@@ -88,14 +121,10 @@ Agorithm Practice with [Dachris-1](https://github.com/Dachris-1) ;-)
 - Bi-direction BFS
 
 [887.Super Egg Drop](https://leetcode.com/problems/smallest-good-base)
-- key : bottom up analysis, DP, reverse thinking ,given drops and eggs how many levels can I build?
+- key : bottom up analysis, DP, reverse thinking , given drops and eggs how many levels can I build?
 - refer: 9021 week 5 the tower and marbles puzzles
 
 [483.Smallest Good Base](https://leetcode.com/problems/smallest-good-base)
 - determine the range of digits in binary rep
 - determine range of base
-
-
-
-
 
